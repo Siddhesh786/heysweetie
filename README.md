@@ -1,0 +1,3 @@
+https://github.com/JNYH/HackerRank_certification_Problem_Solving_intermediate/blob/main/Problem_Solving_timed_assessment_challenge.pdf
+
+hackerrank intermediate problem solving certification
